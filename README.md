@@ -1,1 +1,1 @@
-# troyconsultingclub_wp
+# Troy Consulting Club WP Theme
