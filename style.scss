@@ -1,8 +1,0 @@
-@mixin font-size($pixels) {
-    font-size: $pixels;
-    font-size: ($pixels/10px) * 1rem;
-}
-
-body {
-    @include font-size(16px);
-}
